@@ -1552,7 +1552,7 @@
     <option name="JSP_DIRECTIVE_BACKGROUND">
       <value>
         <option name="FOREGROUND" />
-        <option name="BACKGROUND" value="141414" />
+        <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
         <option name="EFFECT_TYPE" value="0" />
@@ -3142,7 +3142,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="a9b7c6" />
-        <option name="BACKGROUND" value="2b2b2b" />
+        <option name="BACKGROUND" value="191919" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
         <option name="EFFECT_TYPE" value="5" />
